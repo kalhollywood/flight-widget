@@ -1,9 +1,3 @@
-// import axios from 'axios';
-// import cors from 'cors';
-// import express from 'express';
-// import dotenv from 'dotenv';
-
-
 const PORT = 8000;
 const axios = require('axios').default;
 const express = require('express');
